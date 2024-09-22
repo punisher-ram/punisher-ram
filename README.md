@@ -1,7 +1,7 @@
 - 👋 Hi, I’m harshith Venkatesh
 - 👀 I’m interested in Computer Engineering
 - 🌱 I’m currently learning Cloud Computing
-- 💞️ I’m looking to collaborate on Computer Software and applications, especially cloud computing, AI, and Cyber Security.
+- 💞️ I’m looking to collaborate on Computer Software and applications, especially cloud computing, AI, Machine Learning and Cyber Security.
 - 📫 How to reach me - My email that is harshith.v3@gmail.com
 
 <!---
